@@ -144,3 +144,10 @@ a:hover{
 .h3h{
   color: black;
 }
+
+.btn-link{
+  color: black;
+  text-decoration: none;
+  text-align: center;
+
+}
